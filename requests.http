@@ -8,6 +8,11 @@ GET http://localhost:8080/api/v1/software-engineers
 
 ###
 
+### GET request
+GET http://localhost:8080/api/v1/software-engineers/user_id
+
+###
+
 ### Send POST
 POST http://localhost:8080/api/v1/software-engineers
 Content-Type: application/json
